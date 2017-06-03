@@ -1,0 +1,12 @@
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SourceCode\Algorithm\Algorithm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SourceCode\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+D:\SourceCode\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+D:\SourceCode\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
